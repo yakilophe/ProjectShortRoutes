@@ -10,7 +10,7 @@ Es ideal para grafos densos y donde se requiere conocer la distancia entre cualq
 ## Algoritmo de Bellman-Ford
 Encuentra el camino más corto desde un nodo origen hacia todos los demás, incluso cuando existen pesos negativos en las aristas.
 
-## Algoritmo de Backtracking
+## Algoritmo de Backtracking con poda
 Explora la ruta mas corta desde un nodo inicio a un nodo destino, utilizando una técnica de búsqueda exhaustiva.
 
 ---
